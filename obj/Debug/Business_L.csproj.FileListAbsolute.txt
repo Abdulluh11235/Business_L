@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Business_L\obj\Debug\Business_L.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Business_L\obj\Debug\Business_L.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Business_L\bin\Debug\Business_L.dll
+C:\Users\DELL\source\repos\Business_L\bin\Debug\Business_L.pdb
+C:\Users\DELL\source\repos\Business_L\bin\Debug\Data_L.dll
+C:\Users\DELL\source\repos\Business_L\bin\Debug\Data_L.pdb
+C:\Users\DELL\source\repos\Business_L\obj\Debug\Business_L.csproj.Up2Date
+C:\Users\DELL\source\repos\Business_L\obj\Debug\Business_L.dll
+C:\Users\DELL\source\repos\Business_L\obj\Debug\Business_L.pdb
